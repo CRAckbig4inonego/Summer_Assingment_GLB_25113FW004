@@ -20,6 +20,6 @@ visited[j] = 1;
  }
 }
 printf("%d occurs %d times\n", arr[i], count);
- }
+  }
     return 0;
 }
